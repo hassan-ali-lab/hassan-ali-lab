@@ -1,18 +1,8 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+<h1 align="center">Hi 👋, I'm Hassan Ali</h1>
+<h3 align="center">A passionate Research Enthusiast from Pakistan</h3>
+<svg fill="none" viewBox="0 0 600 500" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          display: flex;
-          width: 100%;
-          height: 300px;
-          background-color: black;
-          color: white;
-        }
-      </style>
-      <div class="container">
-        <h1>Hi 👋, I'm Hassan Ali</h1>
-      </div>
         <h2>👨‍💻 About Me</h2>
         <ul>
           <li>🔭 I’m currently working on <strong>Machine Learning</strong></li>
@@ -52,38 +42,9 @@
     </div>
     </foreignObject>
 </svg>
-
-<h1 align="center">Hi 👋, I'm Hassan Ali</h1>
-<h3 align="center">A passionate Research Enthusiast from Pakistan</h3>
-
-<svg>
-    <foreignObject width="100%" height="100%">
-        <style>
-            #trophies {
-                width: 100%;
-                height: auto;
-            }
-            #trophies > svg {
-                transform: scale(2.5);
-            }
-        </style>
-        <div xmlns="http://www.w3.org/1999/xhtml">
-        <h3 align="center">Connect with me:</h3>
-        <img id="trophies" src="https://github-profile-trophy.vercel.app/?username=hassan-ali-lab" alt="hassan-ali-lab" />
-        </div>
-    </foreignObject>
-</svg>
-
-- 🌱 I’m currently learning **Advance Machine Learning, LLMs, MLOps**
-
-- 📫 How to reach me **rajahassanali25@gmail.com**
-- 📫 How to reach me **hassanali.bscsf19@iba-suk.edu.pk**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hassan-ali-lab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hassan-ali-lab" height="30" width="40" /></a>
+<p>
+<img id="trophies" src="https://github-profile-trophy.vercel.app/?username=hassan-ali-lab" alt="hassan-ali-lab" />
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
