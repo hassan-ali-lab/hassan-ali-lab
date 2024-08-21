@@ -50,6 +50,18 @@
           </li>
         </ul>
     </div>
+<style>
+    #trophies {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+
+</style>
+
+<h1 align="center">Hi 👋, I'm Hassan Ali</h1>
+<h3 align="center">A passionate Research Enthusiast from Pakistan</h3>
 
   </foreignObject>
 </svg>
@@ -68,8 +80,12 @@
         </div>
     </foreignObject>
 
-</svg>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img id="trophies" src="https://github-profile-trophy.vercel.app/?username=hassan-ali-lab" alt="hassan-ali-lab" /></a> </p>
 
+- 🌱 I’m currently learning **Advance Machine Learning, LLMs, MLOps**
+
+- 📫 How to reach me **rajahassanali25@gmail.com**
+- 📫 How to reach me **hassanali.bscsf19@iba-suk.edu.pk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
