@@ -50,22 +50,12 @@
           </li>
         </ul>
     </div>
-<style>
-    #trophies {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-    }
-
-</style>
+    </foreignObject>
+</svg>
 
 <h1 align="center">Hi 👋, I'm Hassan Ali</h1>
 <h3 align="center">A passionate Research Enthusiast from Pakistan</h3>
 
-  </foreignObject>
-</svg>
-<h3 align="center">A passionate Research Enthusiast from Pakistan</h3>
 <svg>
     <foreignObject width="100%" height="100%">
         <style>
@@ -73,14 +63,16 @@
                 width: 100%;
                 height: auto;
             }
+            #trophies > svg {
+                transform: scale(2.5);
+            }
         </style>
         <div xmlns="http://www.w3.org/1999/xhtml">
         <h3 align="center">Connect with me:</h3>
         <img id="trophies" src="https://github-profile-trophy.vercel.app/?username=hassan-ali-lab" alt="hassan-ali-lab" />
         </div>
     </foreignObject>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img id="trophies" src="https://github-profile-trophy.vercel.app/?username=hassan-ali-lab" alt="hassan-ali-lab" /></a> </p>
+</svg>
 
 - 🌱 I’m currently learning **Advance Machine Learning, LLMs, MLOps**
 
