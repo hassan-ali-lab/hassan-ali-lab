@@ -42,11 +42,11 @@
     </div>
     </foreignObject>
 </svg>
-<p>
+<p style="background: white">
 <img id="trophies" src="https://github-profile-trophy.vercel.app/?username=hassan-ali-lab" alt="hassan-ali-lab" />
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left" style="background: white"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
 </a> 
